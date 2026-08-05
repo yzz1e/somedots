@@ -1,0 +1,4 @@
+/home/aktty/.emacs.d/elpa/vterm-20260706.1652/build/CMakeFiles/vterm-module.dir
+/home/aktty/.emacs.d/elpa/vterm-20260706.1652/build/CMakeFiles/run.dir
+/home/aktty/.emacs.d/elpa/vterm-20260706.1652/build/CMakeFiles/edit_cache.dir
+/home/aktty/.emacs.d/elpa/vterm-20260706.1652/build/CMakeFiles/rebuild_cache.dir

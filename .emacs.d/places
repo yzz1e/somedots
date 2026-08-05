@@ -1,0 +1,60 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/home/yzz1e/Documents/KotlinProbe/1/Main.kt" . 117)
+ ("/home/yzz1e/Documents/KotlinProbe/1/"
+  (dired-filename . "/home/yzz1e/Documents/KotlinProbe/1/Main.kt"))
+ ("/home/yzz1e/Documents/KotlinProbe/"
+  (dired-filename . "/home/yzz1e/Documents/KotlinProbe/1"))
+ ("/home/yzz1e/Documents/"
+  (dired-filename . "/home/yzz1e/Documents/KotlinProbe"))
+ ("/home/yzz1e/Documents/JavaProbe/"
+  (dired-filename . "/home/yzz1e/Documents"))
+ ("/home/yzz1e/Documents/JavaProbe/S1/"
+  (dired-filename . "/home/yzz1e/Documents/JavaProbe"))
+ ("/home/yzz1e/Documents/JavaProbe/S1/Main.java" . 615)
+ ("/home/yzz1e/Documents/C3Probe/1/main.c3" . 791)
+ ("/home/yzz1e/Documents/C3Probe/"
+  (dired-filename . "/home/yzz1e/Documents"))
+ ("/home/yzz1e/Documents/C3Probe/1/"
+  (dired-filename . "/home/yzz1e/Documents/C3Probe"))
+ ("/home/yzz1e/Documents/MISC/"
+  (dired-filename . "/home/yzz1e/Documents"))
+ ("/home/yzz1e/Documents/MISC/c++/main.cpp" . 71)
+ ("/home/yzz1e/Documents/MISC/c++/"
+  (dired-filename . "/home/yzz1e/Documents/MISC/c++/main.cpp"))
+ ("/home/yzz1e/.emacs.d/"
+  (dired-filename . "/home/yzz1e/.emacs.d/init.el"))
+ ("/home/yzz1e/Documents/PhpProbe/1/index.php" . 7823)
+ ("/home/yzz1e/Documents/PhpProbe/1/"
+  (dired-filename . "/home/yzz1e/Documents/PhpProbe/1/index.php"))
+ ("/home/yzz1e/Documents/PhpProbe/1/storage/"
+  (dired-filename . "/home/yzz1e/Documents/PhpProbe/1"))
+ ("/home/yzz1e/Documents/PhpProbe/"
+  (dired-filename . "/home/yzz1e/Documents/PhpProbe/1"))
+ ("/home/yzz1e/Documents/PhpProbe/1/storage/60a3c6ad72b4e0a01290851c1e578114.json"
+  . 374)
+ ("/home/yzz1e/Documents/WebProbe/yzz1e/"
+  (dired-filename . "/home/yzz1e/Documents/WebProbe/yzz1e/index.js"))
+ ("/home/yzz1e/Documents/WebProbe/"
+  (dired-filename . "/home/yzz1e/Documents/WebProbe/yzz1e"))
+ ("/home/yzz1e/Documents/WebProbe/yzz1e/home-@t.html" . 153)
+ ("/home/yzz1e/Documents/WebProbe/yzz1e/home.html" . 177)
+ ("/home/yzz1e/Documents/WebProbe/yzz1e/index.html" . 262)
+ ("/home/yzz1e/Documents/WebProbe/yzz1e-website/"
+  (dired-filename . "/home/yzz1e/Documents/WebProbe"))
+ ("/home/yzz1e/Documents/WebProbe/yzz1e-website/yzz1e/"
+  (dired-filename . "/home/yzz1e/Documents/WebProbe/yzz1e-website"))
+ ("/home/yzz1e/shyzi/src/frontend/parser.cpp" . 4214)
+ ("/home/yzz1e/shyzi/src/frontend/"
+  (dired-filename . "/home/yzz1e/shyzi/src/frontend/parser.cpp"))
+ ("/home/yzz1e/shyzi/src/"
+  (dired-filename . "/home/yzz1e/shyzi/src/frontend"))
+ ("/home/yzz1e/shyzi/" (dired-filename . "/home/yzz1e/shyzi/src"))
+ ("/home/yzz1e/Documents/C3Probe/1/raylib6.c3i" . 128335)
+ ("/home/yzz1e/Documents/MISC/yzz1e/README.md" . 3927)
+ ("/usr/lib/jvm/java-21-openjdk/"
+  (dired-filename . "/usr/lib/jvm/java-21-openjdk/conf"))
+ ("/usr/lib/jvm/java-21-openjdk/lib/"
+  (dired-filename . "/usr/lib/jvm/java-21-openjdk"))
+ ("/home/" (dired-filename . "/home/aktty"))
+ ("/usr/include/bits/types/FILE.h" . 57)
+ ("/" (dired-filename . "/bin")) ("/../" (dired-filename . "/../bin")))

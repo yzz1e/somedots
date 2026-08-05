@@ -1,0 +1,8 @@
+;;; -*- lisp-data -*-
+(("/home/aktty/.emacs.d/elpa/c3-ts-mode/")
+ ("/home/aktty/.emacs.d/elpa/gruber-darker-theme/")
+ ("/home/aktty/.emacs.d/elpa/odin-ts-mode/")
+ ("/home/aktty/.emacs.d/elpa/odin-mode/")
+ ("/home/aktty/.emacs.d/elpa/fasm-mode/")
+ ("/home/aktty/.emacs.d/elpa/simpc-mode/")
+ ("/home/aktty/.emacs.d/elpa/vc-use-package/"))
